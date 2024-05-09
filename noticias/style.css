@@ -1,0 +1,85 @@
+body{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.top-bar{
+    background-color: #333;
+    color:white;
+    padding: 17px;
+    font-weight: bold;
+    border-bottom: 7px solid rgb(253, 138, 36);
+    font-size: 33px;
+    text-align: center;
+}
+.container{
+    max-width: 888px;
+    margin:auto
+  
+}
+.headliner{
+font-size: 50px;
+line-height:58px;
+font-weight: bold;
+}
+.header{
+font-size: 21px;
+
+}
+
+.layout{
+
+}
+.nome{
+
+}
+.linha-horizontal{
+
+    border-bottom: solid 1px rgb(148, 148, 148);
+    padding: 15px;
+}
+.corpo{
+    font-size: 30px;
+    line-height: 1.75em;
+}
+.texto-da-imagem{
+    color: rgb(253, 138, 36);
+    font-weight: bold;
+}
+.frase-sem-cor{
+    font-size: 30px;
+}
+.frase-com-cor{
+    font-size: 30px;
+    color: rgb(253, 138, 36);
+font-weight: bold;
+}
+.mudança-de-cor{
+    color:rgb(253, 138, 36);
+    font-weight: bolder;
+}
+.frase-da-imagem{
+    font-size: 30px;
+   
+}
+.texto-da-imagem{
+    font-size: 30px;
+}
+li{ 
+    font-size: 45px;
+    font-weight: bold;
+}
+.geladeira{
+    font-size: 30px;
+    line-height: 1.75em;
+}
+.Chuveiro-eletrico{
+    font-size: 30px;
+    line-height: 1.75em;
+}
+.imagem{
+    width: 900px;
+}
+.vida{
+    font-size: 30px;
+}

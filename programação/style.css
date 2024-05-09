@@ -1,0 +1,42 @@
+
+h2{
+    color:aqua; 
+    background-image: url(./grama.jpeg)
+}
+.fundo{ 
+    width:500px;
+    height: 500px;
+    background: rgb(130, 20, 0)
+     url(./grama.jpeg) no-repeat center ;
+    
+}
+#linha1{
+    color:aqua
+}
+.linha2{background-color:pink}
+.equaçoes1{color: #641A22}
+#cor1{ width: 500px; height: 500px;
+background:black
+}
+#cor2{
+    width: 50vh; height: 50vw;
+    background:blue;
+}
+.imagens{ 
+height:50% ;
+}
+.geral{
+font-size: 20px;
+}
+.texto1{
+font-size:30px
+}
+.texto2{
+font-size:2em
+}
+html{
+    font-size: 16px
+}
+a{
+    text-decoration:none; text-shadow: 2px 10px 5px; color: red; font-size: 2em;
+}
