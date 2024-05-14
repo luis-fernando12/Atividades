@@ -1,0 +1,105 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+}
+
+.top-bar{
+    background-color:#ff6b28 ;
+    text-align: center;
+    padding: 25px;
+}
+#bolo{
+background: url("./images/hero_bolo.jpg");
+height: 400px;
+background-size: cover;
+background-position:center ;
+}
+
+
+ .titulo{
+    color: #ff6b28;
+    font-weight: bold;
+    font-size: 60px; 
+    padding-top: 100px;
+    max-width: 1500px;
+    margin:auto
+       
+ }
+.ingredientes{
+  cursor: url('./images/cursor_ingredientes.png'), pointer;
+  max-width: 1350px;
+  margin:auto;
+}
+
+ .ingredientes:hover{
+  box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25);
+}
+  .sub{
+    color: #ff6b28;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 40px;
+    
+  }
+
+
+  li{
+    font-size:29px;
+    padding: 10px;
+    color:black;
+    
+  }
+  .butao{
+    background: #ff6b28;
+    border-radius: 20px;
+    padding: 20px;
+    color:white;
+    text-decoration: none;
+    font-size: 22px;
+    
+  }
+
+.modo-preparo{
+  color: #ff6b28;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 40px;
+}
+
+
+.preparo{
+  cursor: url('./images/cursor_preparo.png'), pointer;
+  max-width: 1350px;
+  margin:auto;
+
+}
+.preparo:hover{
+  box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25);
+}
+.instruçoes{
+  font-size:29px;
+    padding: 20px;
+    color:black;
+    cursor: url('./images/cursor_intrucoes.png'), pointer;
+  max-width: 1350px;
+  margin:auto;
+}
+
+.instruçoes:hover{
+  box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25);
+  
+}
+.barra{
+  background-color: #ff6b28;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  font-size: 22px;
+  font-weight: none;
+}
+
+
+  
