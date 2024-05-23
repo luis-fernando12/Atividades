@@ -1,0 +1,150 @@
+
+body, html{
+    font-size: 28px;
+}
+
+/* img{
+    
+    width: 100px;
+    background-color: yellowgreen;
+    visibility: hidden;
+    display: block;
+}
+.imagem{
+    background-color: black;
+    padding: 10px;
+} */
+
+/* .quadro{
+    width:900px;
+    height: 800px;
+    border: solid 1px black;
+    
+    
+}
+
+.quadrado{
+    height: 200px;
+    width: 200px;
+}
+
+.red{
+    background-color: red;
+    margin-bottom: 10px;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+    position: relative ;
+    left: 700px;
+    top: 400px;
+    
+} */
+
+
+/* .quadro2{
+    width:900px;
+    height: 5000px;
+    border: solid 1px black;
+    position: relative;
+    
+    
+}
+
+.quadrado2{
+    height: 200px;
+    width: 200px;
+}
+
+.red2{
+    background-color: red;
+    position: sticky;
+    top:0px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.blue2{
+    background-color: blue;
+    position: fixed;
+    right: 0px;
+}
+.green2{
+    background-color: green;
+    position:absolute;
+    right:0px;
+    bottom:0px
+    
+    
+} */
+
+/* 
+img{
+     height: 300px;
+     float: left;
+    
+
+}
+p{
+    display: inline;
+    font-size: 25px;
+  
+}
+.magali{
+    border: 2px solid black;
+    overflow: auto;
+    background-color: red;
+} */
+
+/* li{
+    float: left;
+    list-style: none;
+    background-color: aqua;
+    padding: 10px;
+    margin-left: 10px ;
+} */
+/* .card{
+position:relative ;
+    float:left;
+height: 500px;
+width: 500px;
+    text-align: center;
+    border: solid 2px black;
+
+    
+}
+.c1{
+    background-color: green;
+    line-height: 500px;
+
+   
+}
+.c2{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translateX(-50%);
+    transform: translate(-50%, -50%);
+
+} */
+/* .centro{
+    position: relative;
+    background-color: black;
+    height: 200px;
+    width: 80%;
+    margin: auto;
+}
+.dentro{
+    position: absolute;
+    background-color: gray;
+    height: 50%;
+    width: 50%;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 50px;
+    color:white
+} */
+
